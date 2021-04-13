@@ -23,14 +23,17 @@ The data set contains the following diseases:
 - Squamous cell carcinoma
 - Vascular lesion
 
-### NOTE: 
+### Note: 
 
-I havent used any pre-trained model using Transfer learning. All the model building process should be based on a custom model.
+- I haven't used any pre-trained model using Transfer learning. All the model building process should be based on a custom model.
+- This model is trained using `Google Colab` due to restriction of computation power in loal.
 
 ## Dataset (Download from below link):
 
 Data Imageset Link: https://drive.google.com/drive/folders/12WoKR6plxy5MFyY30cEwSjHXL76aDaoy?usp=sharing
 
+### This POC contains below file:
 
+- One iPython Notebook - 
 
 
