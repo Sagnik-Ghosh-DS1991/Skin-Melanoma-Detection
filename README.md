@@ -23,7 +23,7 @@ The data set contains the following diseases:
 - Squamous cell carcinoma
 - Vascular lesion
 
-## NOTE: 
+### NOTE: 
 
 I havent used any pre-trained model using Transfer learning. All the model building process should be based on a custom model.
 
