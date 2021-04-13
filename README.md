@@ -1,6 +1,6 @@
 # Skin cancer Melanoma Detection
 
-## multiclass classification model using a custom convolutional neural network in tensorflow. 
+## Multiclass classification model using a custom convolutional neural network in tensorflow. 
 
 
 ## Problem statement: 
@@ -25,4 +25,12 @@ The data set contains the following diseases:
 
 ## NOTE: 
 
-You don't have to use any pre-trained model using Transfer learning. All the model building process should be based on a custom model.
+I havent used any pre-trained model using Transfer learning. All the model building process should be based on a custom model.
+
+## Dataset (Download from below link):
+
+Data Imageset Link: https://drive.google.com/drive/folders/12WoKR6plxy5MFyY30cEwSjHXL76aDaoy?usp=sharing
+
+
+
+
