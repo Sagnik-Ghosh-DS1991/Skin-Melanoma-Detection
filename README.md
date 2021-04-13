@@ -34,6 +34,6 @@ Data Imageset Link: https://drive.google.com/drive/folders/12WoKR6plxy5MFyY30cEw
 
 ### This POC contains below file:
 
-- One iPython Notebook - 
+- One iPython Notebook - Skin_cancer_melanoma_CNN.ipynb
 
 
