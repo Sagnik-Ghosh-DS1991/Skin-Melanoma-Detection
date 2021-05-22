@@ -1,4 +1,4 @@
-# Skin cancer Melanoma Detection
+# Skin cancer Melanoma Detection (CNN) Deep learning
 
 ## Multiclass classification model using a custom convolutional neural network in tensorflow. 
 
